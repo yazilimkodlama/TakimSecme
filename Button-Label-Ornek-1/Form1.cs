@@ -19,7 +19,7 @@ namespace Button_Label_Ornek_1
 
         private void btnBesiktas_Click(object sender, EventArgs e)
         {
-            lblTakim.Text = "BEŞİKTAŞ";
+            lblTakim.Text = "ŞAMPİYON BEŞİKTAŞ";
             lblTakim.BackColor = Color.Black;
             lblTakim.ForeColor = Color.White;
         }
