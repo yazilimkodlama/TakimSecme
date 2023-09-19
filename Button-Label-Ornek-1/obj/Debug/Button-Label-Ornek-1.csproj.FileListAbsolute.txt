@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\bin\Debug\Button-Label-Ornek-1.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\bin\Debug\Button-Label-Ornek-1.exe
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\bin\Debug\Button-Label-Ornek-1.pdb
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\obj\Debug\Button-Label-Ornek-1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\obj\Debug\Button_Label_Ornek_1.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\obj\Debug\Button_Label_Ornek_1.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\obj\Debug\Button-Label-Ornek-1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\obj\Debug\Button-Label-Ornek-1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\obj\Debug\Button-Label-Ornek-1.exe
+C:\Users\student\Desktop\Ahmet\ntp\Button-Label-Ornek-1\Button-Label-Ornek-1\obj\Debug\Button-Label-Ornek-1.pdb
