@@ -93,6 +93,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(910, 325);
             this.Controls.Add(this.lblTakim);
             this.Controls.Add(this.btnReal);
@@ -100,7 +101,7 @@
             this.Controls.Add(this.btnBayern);
             this.Controls.Add(this.btnBesiktas);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Takım Seçim";
             this.ResumeLayout(false);
             this.PerformLayout();
 
